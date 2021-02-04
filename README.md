@@ -1,4 +1,4 @@
-# ECE276B Project 2 : Motion planning with A* and RRT*
+# Motion planning with A* and RRT*
 
 Description
 ===========
@@ -15,7 +15,15 @@ Code organization
 * Astar.py -- Run the script for performing A* by setting the environment and discretisation value
 
 * ompl_RRT.py -- Run the script for performing RRT* by setting the environment and runtime
- 
+
+Results
+=======
+A*           |  RRT*
+:-------------------------:|:-------------------------:
+<img src="img/table-astar.png" width="300"> | <img src="img/table-rrt.png" width="300">
+<img src="img/flapp-astar.png" width="300"> | <img src="img/flappy-rrt.png" width="300">
+<img src="img/room-astar.png" width="300"> | <img src="img/room-rrt.png" width="300">
+
 Datasets
 ========
 Test environments was provided with the starter code.
