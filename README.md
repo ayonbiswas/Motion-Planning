@@ -21,8 +21,8 @@ Results
 A*           |  RRT*
 :-------------------------:|:-------------------------:
 <img src="img/table-astar.png" width="300"> | <img src="img/table-rrt.png" width="300">
-<img src="img/flapp-astar.png" width="300"> | <img src="img/flappy-rrt.png" width="300">
-<img src="img/room-astar.png" width="300"> | <img src="img/room-rrt.png" width="300">
+<img src="img/flapp-astar.png" width="200"> | <img src="img/flappy-rrt.png" width="200">
+<img src="img/room-astar.png" width="200"> | <img src="img/room-rrt.png" width="200">
 
 Datasets
 ========
